@@ -1,0 +1,19 @@
+Package: compositiADA
+Title: I dati per gli indicatori compositi
+Version: 0.0.1
+Authors@R: 
+    person(given = "Raffaele",
+           family = "Morelli",
+           role = c("aut", "cre"),
+           email = "raffaele.morelli@isprambiente.it",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Il pacchetto contiene i dati per i compositi 2019.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
+Imports: 
+    tibble,dplyr
